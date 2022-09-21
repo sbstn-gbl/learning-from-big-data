@@ -32,9 +32,22 @@
             <td><a href="https://github.com/sbstn-gbl/learning-from-big-data#about-myself">Sebastian Gabel</a></td>
         <tr>
         <tr>
-            <td>GitHub Repositories</td>
+            <td>Teachers</td>
             <td>
-             	<a href="https://github.com/sbstn-gbl/lfbd-22-23">Learning from Big Data 2022-23</a> <br>
+              <a href="http://guiliberali.org">Gui Liberali</a> (Module 1) <br>
+              <a href="https://sebastiangabel.com">Sebastian Gabel</a> (Modules 2-3)
+            </td>
+        <tr>
+        <tr>
+            <td>Current GitHub Repositories</td>
+            <td>
+             	<a href="https://github.com/guiliberali/Learning-from-Big-Data-Module-1">Learning from Big Data 2022-23 – Module 1</a> <br>
+             	<a href="https://github.com/sbstn-gbl/lfbd-22-23">Learning from Big Data 2022-23 – Modules 2-3</a>
+			      </td>
+        <tr>
+        <tr>
+            <td>Past GitHub Repositories</td>
+            <td>
               <a href="https://github.com/sbstn-gbl/lfbd-21-22">Learning from Big Data 2021-22</a>
 			      </td>
         <tr>
