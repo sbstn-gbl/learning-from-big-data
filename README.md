@@ -41,17 +41,19 @@
         <tr>
             <td>Current GitHub Repositories</td>
             <td>
-             	<a href="https://github.com/guiliberali/Learning-from-Big-Data-Module-1">Learning from Big Data 2022-23 – Module 1</a> <br>
-             	<a href="https://github.com/sbstn-gbl/lfbd-22-23">Learning from Big Data 2022-23 – Modules 2-3</a>
-			      </td>
+             	<a href="https://github.com/guiliberali/Big-Data-2023-Module-1">Learning from Big Data 2023-24 – Module 1</a> <br>
+             	<a href="https://github.com/sbstn-gbl/lfbd-23-24">Learning from Big Data 2023-24 – Modules 2-3</a>
+            </td>
         <tr>
-        <tr>
-            <td>Past GitHub Repositories</td>
-            <td>
-              <a href="https://github.com/sbstn-gbl/lfbd-21-22">Learning from Big Data 2021-22</a>
-			      </td>
-        <tr>
-    </tbody>
+    <tr>
+    <td>Past GitHub Repositories</td>
+    <td>
+    <a href="https://github.com/sbstn-gbl/lfbd-21-22">Learning from Big Data 2021-22</a><br>
+    <a href="https://github.com/guiliberali/Learning-from-Big-Data-Module-1">Learning from Big Data 2022-23 – Module 1</a> <br>
+    <a href="https://github.com/sbstn-gbl/lfbd-22-23">Learning from Big Data 2022-23 – Modules 2-3</a>
+    </td>
+    <tr>
+</tbody>
 </table>
 
 
